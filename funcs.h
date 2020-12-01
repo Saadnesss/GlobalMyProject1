@@ -1,4 +1,4 @@
-// funcs.h
+// çŕăîëîâî÷íűé ôŕéë funcs.h
 #define __FUNCS_H__
 double MySum(double, double);
 double MySub(double, double);
